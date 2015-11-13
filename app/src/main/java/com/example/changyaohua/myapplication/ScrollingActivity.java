@@ -35,7 +35,7 @@ public class ScrollingActivity extends AppCompatActivity {
         return true;
     }
 
-    //
+    //Tests
 
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
